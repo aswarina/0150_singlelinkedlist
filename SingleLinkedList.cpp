@@ -64,5 +64,8 @@ public:
         return (START == NULL);
     }
 
-    
+    bool search(int nim, Node *&previous, Node *&current)
+    {
+        
+    }
 }
